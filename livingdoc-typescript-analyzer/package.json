@@ -1,0 +1,8 @@
+{
+  "name": "livingdoc-typescript-analyzer",
+  "version": "1.0.0",
+  "description": "Living documentation from typescript sources code",
+  "main": "index.js",
+  "author": "julienboz@gmail.com",
+  "license": "MIT"
+}
