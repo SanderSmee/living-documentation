@@ -2,11 +2,14 @@
 .idea
 target
 *.log
+log.txt
 .vscode
+.factorypath
 .project
 *.cache
 *.gpg
 *.versionsBackup
+.sts4-cache
 
 .classpath
 .settings
